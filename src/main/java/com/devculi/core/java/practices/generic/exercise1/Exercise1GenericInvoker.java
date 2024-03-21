@@ -3,7 +3,7 @@ package com.devculi.core.java.practices.generic.exercise1;
 import com.devculi.core.java.practices.generic.GenericInvoker;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("excercise1")
 public class Exercise1GenericInvoker implements GenericInvoker {
 
   @Override
