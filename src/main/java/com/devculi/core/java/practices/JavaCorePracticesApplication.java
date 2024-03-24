@@ -1,12 +1,8 @@
 package com.devculi.core.java.practices;
 
-import com.devculi.core.java.practices.generic.GenericInvoker;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.stream.Collectors;
-import org.springframework.aop.support.AopUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;

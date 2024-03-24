@@ -1,6 +1,6 @@
-package com.devculi.core.java.practices.generic.exercise1;
+package com.devculi.core.java.practices.generics.exercise1;
 
-import com.devculi.core.java.practices.generic.GenericInvoker;
+import com.devculi.core.java.practices.generics.GenericInvoker;
 import org.springframework.stereotype.Component;
 
 @Component("excercise1")

@@ -1,6 +1,4 @@
-package com.devculi.core.java.practices.generic.exercise1;
-
-import org.springframework.stereotype.Component;
+package com.devculi.core.java.practices.generics.exercise1;
 
 /*
  * Basic Level:
